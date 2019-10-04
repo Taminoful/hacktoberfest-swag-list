@@ -123,6 +123,21 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join the Discord](https://discord.gg/python), post on an unclaimed Issue with your interest and mention your in-server name.
 - **Notes**:  See this page for their [Reddit announcement](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/). [Contributing Guides](https://pythondiscord.com/pages/contributing/) are available on their website.
 
+### Q
+
+#### **QMK**
+
+- **Swag**: QMK-specific Hacktoberfest t-shirt
+- **Requirements**: Interact 4 times with a [QMK repo](https://github.com/qmk) in any of these ways or make a [15$ donation to cKeys](https://www.paypal.com/donate/?token=fGvA2zRgtS8k_vB_C9ixOqsH5vReq4OqlDCGnxu5LIwOo7ziv135CZ3BkEeq8zWCLTkz4W).
+  1) Review/suggest significant changes on a PR that's labelled `hacktoberfest`
+  2) Make a comment on an Issue/PR that contributes to the conversation that's labelled `hacktoberfest`
+  3) Open a PR that documents any new feature that's consistent with our doc style (check out the `needs doc` label)
+  4) Open a PR that [translates](https://hacktoberfest.qmk.fm/#translating) some documentation
+  5) Open a PR that fixes a bug in an issue labelled `hacktoberfest`
+  6) We're open to ideas! Anything we determine to be a significant contribution to QMK (including any of the above actions that are large enough in size/scope) will qualify!
+- **How to sign up**: You can [check your progress here](https://hacktoberfest.qmk.fm/) and [sign up for the shirt here](https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform).
+- **Notes**: See their cool [Hacktoberfest site](https://hacktoberfest.qmk.fm/).
+
 ### S
 
 #### **SalesAgility**
@@ -234,6 +249,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Perform at least one of the actions mentioned in the blog post
 - **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
 - **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
+
+#### **QMK**
+
+- **Swag**: QMK-specific Hacktoberfest t-shirt
+- **Requirements**: Interact 4 times with a [QMK repo](https://github.com/qmk) in any of these ways or make a [15$ donation to cKeys](https://www.paypal.com/donate/?token=fGvA2zRgtS8k_vB_C9ixOqsH5vReq4OqlDCGnxu5LIwOo7ziv135CZ3BkEeq8zWCLTkz4W).
+  1) Review/suggest significant changes on a PR that's labelled `hacktoberfest`
+  2) Make a comment on an Issue/PR that contributes to the conversation that's labelled `hacktoberfest`
+  3) Open a PR that documents any new feature that's consistent with our doc style (check out the `needs doc` label)
+  4) Open a PR that [translates](https://hacktoberfest.qmk.fm/#translating) some documentation
+  5) Open a PR that fixes a bug in an issue labelled `hacktoberfest`
+  6) We're open to ideas! Anything we determine to be a significant contribution to QMK (including any of the above actions that are large enough in size/scope) will qualify!
+- **How to sign up**: You can [check your progress here](https://hacktoberfest.qmk.fm/) and [sign up for the shirt here](https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform).
+- **Notes**: See their cool [Hacktoberfest site](https://hacktoberfest.qmk.fm/).
 
 #### **SalesAgility**
 
